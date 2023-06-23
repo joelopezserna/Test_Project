@@ -6,3 +6,4 @@ def my_len():
 
 x = [my_len()]
 print(x)
+print("hello world")
